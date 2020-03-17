@@ -48,8 +48,8 @@ You ​MUST​ have:
     
 2.  Click the “Begin” button and use the following credentials to login in:
     
-    **Email:** fbla@fbla.com
-    **Password:** fbla1234
+    - **Email:** fbla@fbla.com
+    - **Password:** fbla1234
     
 3.  Click “Begin” to log into your account. The account screen with all your history should now show up.
     
