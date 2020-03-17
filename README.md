@@ -19,8 +19,8 @@ Some features include:
     
 To open an account, you need valid identification with a barcoded ID. Use the following account to test the application instead:
     
-    - **Email:** fbla@fbla.com
-    - **Password:** fbla1234
+- **Email:** fbla@fbla.com
+- **Password:** fbla1234
 
 **Running the application for testing**
 
