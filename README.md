@@ -38,9 +38,7 @@ You ​MUST​ have:
 3.  YOU MUST SELECT ​one of the following simulator devices to test the application as the application does NOT have its constraints set.
     
     1.  iPhone 6s Plus (iOS 10+)
-        
     2.  iPhone 7 Plus (iOS 10+)
-        
     3.  iPhone 8 Plus (iOS 10+)
         
 
@@ -50,7 +48,8 @@ You ​MUST​ have:
     
 2.  Click the “Begin” button and use the following credentials to login in:
     
-    a. Email:​ fbla​@fbla.com​ Password​: fbla1234
+    **Email:** fbla@fbla.com
+    **Password:** fbla1234
     
 3.  Click “Begin” to log into your account. The account screen with all your history should now show up.
     
