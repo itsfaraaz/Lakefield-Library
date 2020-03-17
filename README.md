@@ -69,20 +69,19 @@ You ​MUST​ have:
     
     a.  Select the “Checkout” icon on the bottom. Tap on the barcode icon on the bottom right to open the scanner. Scan the book to automatically add it to your bag.
         
-    2.  Search for the book in the “Search” tab. Tap on the book that you would like to add to your bag and click “Checkout”.
+    b.  Search for the book in the “Search” tab. Tap on the book that you would like to add to your bag and click “Checkout”.
         
 
 **Search for a book**
 
-1.  Select the “Search” icon on the bottom. Tap on the search bar and search for whatever book you would like.
-    
+1.  Select the “Search” icon on the bottom. Tap on the search bar and search for whatever book you would like.   
 2.  Select a book by tapping on it. More details about the book will then pop up.
     
 
 **View the map**
 
-- Select the “Map” icon on the bottom.
-- Click any part of the map to get more details regarding it
+1. Select the “Map” icon on the bottom.
+2. Click any part of the map to get more details regarding it
     
 **Social Media**
 Both Facebook and Twitter have been integrated into the application. You can now share to Facebook and Twitter when you checkout a book.
