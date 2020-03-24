@@ -63,6 +63,9 @@ class LoginController: UIViewController {
                             
                             fUser = User(id: id, firstname: firstname, type: type)
                             self.dismiss(animated: true, completion: nil)
+                            let vc = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(withIdentifier: "MainScene")
+                            let appDelegate = UIApplication.shared.delegate as! AppDelegate
+                            appDelegate.setRootViewController(vc, animated: true)
                             print("User successfully signed into the system")
                             self.removeSpinner(spinner: spinner)
                         }
