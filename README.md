@@ -1,9 +1,9 @@
 
+
 # Lakefield Library
 This is an application I made for a business competition. It features a bunch of features that can allow libraries to automate their checkout process.
 
 Some features include:
-
 -   Open an account from the comfort of your home. Simply scan your student or teacher ID and register directly in the application.
 -   View currently checked out, returned and reserved books. Check for any due or overdue books.
 -   View any overdue fees/current balance.
@@ -14,7 +14,15 @@ Some features include:
 -   Bug reporting system​ in case the user finds a bug within the application.
 -   Works to share checkout news to both Facebook and Twitter
 -   Robust application, developed on the ​Firebase Cloud​ powered by Google. All data is stored in secured serves, backed by a powerful Content Delivery Network.
-  
+
+**VIDEO Demos**
+
+- Registration Demo: [Click Here](https://drive.google.com/open?id=1k1jA56pIe06BMG4aKjBjzZds9686oWvu)
+- Login Demo: [Click Here](https://drive.google.com/open?id=1p_ODW6iRoRDVqp2tMRd-i6t0RA1G11rv)
+- Reservation Demo: [Click Here](https://drive.google.com/open?id=15-zWZwFaZds7D4lR_5KgwFPNY9ldoJFF)
+- Checkout Demo: [Click Here](https://drive.google.com/open?id=1ux4jbzFBWOsPgr7XT7vFVonMrFk0HdHa)
+- Map Demo: [Click Here](https://drive.google.com/open?id=1RPjeDDex9qCXuWbncYmo3ufB91R9QkTQ)
+
 **Example User**
     
 To open an account, you need valid identification with a barcoded ID. Use the following account to test the application instead:
